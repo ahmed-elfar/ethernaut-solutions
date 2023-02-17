@@ -41,3 +41,9 @@ contract Fallout {
     return allocations[allocator];
   }
 }
+
+
+//Solution https://dev.to/nvn/ethernaut-hacks-level-2-fallout-5842 
+
+//await contract.Fal1out()
+//await contract.owner() === player
